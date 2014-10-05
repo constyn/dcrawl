@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flashpunk-1.7.0" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flashpunk-1.7.0.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
